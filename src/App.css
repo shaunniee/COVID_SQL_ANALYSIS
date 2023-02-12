@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+#viz1676201182094{
+  display: flex !important;
+  align-items:center !important;
+  justify-content:center !important;
+  width:100% !important;
+}
+.header{
+  height: 3rem;
+  font-size: 2.5rem;
+  padding:2.5rem;
+  background-color:rgb(203, 155, 101);
+  text-transform: capitalize;
+}
